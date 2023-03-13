@@ -1,6 +1,6 @@
 # OffensiveJavaScript
 JavaScript key points.
-# Coverage
+# Web Technologies:
 ```
 HTML
 JavaScript
